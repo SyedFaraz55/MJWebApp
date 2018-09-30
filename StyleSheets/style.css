@@ -3,17 +3,39 @@
   padding: 0px;
   box-sizing: border-box;
 }
-
-div.nav {
-  background-color: #009866;
-  padding: 10px;
+body {
+  font-family: sans-serif;
 }
 
-.nav ul {
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+header {
+  background-color: #009866;
+  padding: 10px;
+
+}
+
+#branding {
+  float: left;
+}
+#branding h1 {
+  margin-left: 15px;
+  color:white;
+}
+.navbar {
   list-style-type: none;
   display: flex;
   justify-content: flex-end;
 }
-.nav li a{
-	padding: 6px;
+
+.navbar li {
+  padding:6px;
 }
+.navbar li a  {
+  text-decoration: none;
+  color: white;
+}
+
