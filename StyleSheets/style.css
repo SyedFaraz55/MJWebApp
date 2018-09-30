@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+div.nav {
+  background-color: #009866;
+  padding: 10px;
+}
+
+.nav ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end;
+}
+.nav li a{
+	padding: 6px;
+}

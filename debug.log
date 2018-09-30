@@ -1,0 +1,2 @@
+[0929/140843.782:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name metrics_client_id, discarding value 6cbe0a744a8f4389878ed69e470cef84
+[0929/140855.193:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: The server name or address could not be resolved (0x2ee7)
